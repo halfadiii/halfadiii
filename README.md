@@ -42,7 +42,7 @@ I am a Data Scientist currently exploring skin analysis techniques at the Univer
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfadiii&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="500"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfadiii&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="350"  />
 </p>
 
 ---
