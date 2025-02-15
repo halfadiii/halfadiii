@@ -37,12 +37,12 @@ I am a Data Scientist currently exploring skin analysis techniques at the Univer
 
 ### 🔥 &nbsp;My Stats :
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=halfadiii&show_icons=true&theme=dark&hide_border=true" alt="Adi's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=halfadiii&theme=dark&hide_border=true" alt="Adi's Current Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=halfadiii&show_icons=true&theme=dark&hide_border=true" alt="Adi's GitHub Stats" width="400"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=halfadiii&theme=dark&hide_border=true" alt="Adi's Current Streak" width="400"  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfadiii&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfadiii&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="500"  />
 </p>
 
 ---
