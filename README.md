@@ -9,7 +9,7 @@
 
 ### :man_scientist: &nbsp;About Me :
 
-I am a Data Scientist currently exploring skin analysis techniques at the University at Buffalo.
+I am a Data Scientist/ML Engineer currently working on skin analysis techniques and pursuing a Masters of Professional Studies in Data Science at the University at Buffalo.
 
 - 🔭 I’m currently working on skin analysis projects, aiming to smooth out the complexities of data with advanced algorithms.
 - 🌱 I’m currently learning more about machine learning algorithms and data visualization techniques.
