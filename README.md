@@ -38,7 +38,7 @@ I am a Data Scientist currently exploring skin analysis techniques at the Univer
 ### 🔥 &nbsp;My Stats :
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=halfadiii&show_icons=true&theme=dark&hide_border=true" alt="Adi's GitHub Stats" width="400"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=halfadiii&theme=dark&hide_border=true" alt="Adi's Current Streak" width="400"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=halfadiii&theme=dark&hide_border=true" alt="Adi's Current Streak" width="424"  />
 </p>
 
 <p align="center">
