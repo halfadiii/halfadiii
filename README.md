@@ -9,9 +9,9 @@
 
 ### :man_scientist: &nbsp;About Me :
 
-I am a Data Scientist/ML Engineer currently working on skin analysis techniques and pursuing a Masters of Professional Studies in Data Science at the University at Buffalo.
+I am a Data Scientist/ML Engineer currently working on multiple business ideas that leverage machine learning, AI, and advanced data analytics, and I’m pursuing a Masters of Professional Studies in Data Science at the University at Buffalo.
 
-- 🔭 I’m currently working on skin analysis projects, aiming to smooth out the complexities of data with advanced algorithms.
+- 🔭 I’m currently developing innovative business solutions using ML and AI techniques to tackle real-world challenges.
 - 🌱 I’m currently learning more about machine learning algorithms and data visualization techniques.
 - ⚡ Fun fact: I never stop learning and enjoy collaborating on projects over a good cup of coffee!
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-halfadi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/halfadi)
